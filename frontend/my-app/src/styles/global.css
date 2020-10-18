@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    background-color: #161a1d;
+}
+
+body, input, button, textarea {
+    font: 700 18px 'Inconsolata', monospace;
+}
